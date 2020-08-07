@@ -1,0 +1,45 @@
+span {
+  color:red;
+
+}
+ol {
+  font-style:courier new;
+  text-align: center;
+}
+
+h3 {
+  font-style:courier new;
+  text-align: center;
+
+p }
+{
+  text-align: center;
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+body {
+  background-color: grey;
+  font-style:courier new;
+  
+}
+
+.my-class {
+  margin: 12px;
+  border: solid black
+}
+
+.box1 {
+  width: 20%;
+  box-align: center;
+  border: solid black;
+  border-width: 1px;
+  background-color: blue
+  margin-bottom: 10px;
+}
+
+.box2 {
+  margin: 12px;
+  border: solid black
+}
